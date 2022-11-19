@@ -1,4 +1,5 @@
 import React from 'react';
+import Title from './Title';
 
 function Contact() {
    return (
@@ -9,6 +10,7 @@ function Contact() {
                method="POST"
                className="flex flex-col w-7/12 md:w-4/12"
             >
+              <Title>Contact</Title>
                <input
                   type="text"
                   name="name"
