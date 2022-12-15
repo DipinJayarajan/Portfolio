@@ -3,7 +3,7 @@ export default [
         title: "Music Player",
         imgUrl: "assets/terminal-website.jpg",
         stack: ["#React", "#Redux", "#TailwindCSS"],
-        link: "",
+        link: "https://vocal-hymn.netlify.app",
     },
     {
         title: "Dashboard",
@@ -15,6 +15,6 @@ export default [
         title: "Business Portfolio",
         imgUrl: "assets/terminal-website.jpg",
         stack: ["#React", "#Redux", "#TailwindCSS"],
-        link: "",
+        link: "https://react-business-app.netlify.app",
     }
 ]

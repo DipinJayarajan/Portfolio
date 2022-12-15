@@ -7,7 +7,7 @@ import Timeline from './components/Timeline'
 
 function App() {
   return (
-    <div className="bg-gray-900 ">
+    <div className="bg-zinc-900 ">
       <Intro />
       <Portfolio />
       <Timeline />
